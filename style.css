@@ -1,0 +1,172 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+section {
+    padding: 50px 100px;
+}
+
+.custom-flex {
+    display: flex;
+}
+
+.custom-padding {
+    padding: 70px 0 !important;
+}
+
+.left-right {
+    width: 45%;
+    padding: 0 50px;
+}
+
+.banner h1 {
+    font-size: 50px;
+}
+
+.banner p {
+    color: #828282;
+    margin-bottom: 30px;
+}
+
+.custom-color {
+    color: #80ff72;
+}
+
+.order {
+    text-decoration: none;
+    font-weight: 700;
+    padding: 10px 25px;
+    border-radius: 25px;
+    background-color: #7ee8fa;
+    background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+    color: #fff;
+    box-shadow: 0px 0px 0px #80ff72;
+}
+
+.left-right img {
+    width: 100%;
+    height: auto;
+}
+
+
+/* about me  */
+
+.about-me {
+    background-image: url(images/shape/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+.about-content h2 {
+    color: #80ff72;
+}
+
+.about-content p {
+    color: #828282;
+    padding: 40px 0 50px 0;
+}
+
+
+/* my receipe */
+
+.my-recepies {
+    margin-bottom: 50px;
+}
+
+.my-recepies h1,
+h4 {
+    text-align: center;
+}
+
+.my-recepies h1 {
+    color: #80ff72;
+}
+
+.my-recepies h4 {
+    margin-bottom: 40px;
+    color: #828282;
+}
+
+.single-item {
+    box-shadow: 0px 0px 20px gray;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 0 2%;
+}
+
+.single-item p {
+    color: #828282;
+}
+
+.single-item img {
+    border-radius: 20px;
+}
+
+
+/* counter */
+
+.counter {
+    box-shadow: 0px 0px 20px gray;
+    padding: 50px 70px;
+    border-radius: 15px;
+    margin: 0 10%;
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.counter-item {
+    width: 30%;
+}
+
+.counter-item h1 {
+    color: #7cffcb;
+    font-size: 45px;
+    margin: 0;
+}
+
+.counter-item p {
+    color: #7cffcb;
+    font-size: 12px;
+}
+
+
+/* join */
+
+.join {
+    text-align: center;
+    background-image: url(images/shape/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.join h1 {
+    font-size: 45px;
+}
+
+.join p {
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+
+.join .Subscribe {
+    text-decoration: none;
+    border: 2px solid #7ee8fa;
+    padding: 10px 25px;
+    color: #828282;
+    border-radius: 25px;
+}
+
+footer {
+    padding: 50px 70px;
+    text-align: center;
+}
+
+footer p {
+    font-size: 12px;
+    color: #828282;
+}
